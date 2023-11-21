@@ -1,1 +1,1 @@
-# Worksheet-1---Sin-Wave
+# Worksheet-1-Sin-Wave
